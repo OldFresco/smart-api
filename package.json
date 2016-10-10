@@ -1,0 +1,16 @@
+{
+    "name": "node-smart-api-skeleton",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "express": "~4.9.0",
+        "express-jwt": "^5.1.0",
+        "morgan": "^1.7.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
